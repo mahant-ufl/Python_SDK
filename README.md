@@ -1,6 +1,7 @@
 # Python_SDK
 
 Requires installatipn of Flask, Python requests library and others (if missing.)
+
 pip install Flask
 pip install --upgrade pip setuptools
 pip install virtualenv
